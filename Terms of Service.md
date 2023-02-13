@@ -1,4 +1,3 @@
-
 In these Terms of Service, "**PrixDNS**", "**we**", "**us**", or "**our**" refers to **Datawove Pty Ltd**, a company registered in Australia with ABN 79 646 860 915 trading as **PrixDNS**.
 
 In these **Terms of Service**, "**you**", "**your**", or the "**customer**" refers to the person or entity that uses **PrixDNS**'s services.
@@ -17,14 +16,14 @@ These **Terms of Service** govern your use of **PrixDNS**'s services and constit
 	 1. You agree to pay all fees and charges associated with your use of PrixDNS's services.
 	 2. The fees for the services are set forth on PrixDNS's website and are subject to change without prior notice.
 	 3. PrixDNS will provide you with an invoice for the services, which will include a breakdown of the fees and any applicable taxes.
-	 4.  Payment for the services is due upon receipt of the invoice.
+	 4. Payment for the services is due upon receipt of the invoice.
 	 5. If payment is not received within seven (7) days of the invoice date, PrixDNS reserves the right to suspend or terminate your account.
 4. **Account Termination**
 	 1. PrixDNS may terminate any account(s) at its sole discretion, without notice, for any reason.
 	 2. If PrixDNS terminates your account for a reason other than for cause, PrixDNS will provide you with a prorated refund of any prepaid fees for the terminated services.
 	 3. PrixDNS shall have no obligation to refund any fees if your account is terminated for cause, including without limitation, your violation of these Terms of Service.
 	 4. Causes for account termination may include, but are not limited to, the following:
-	 	 1.  Violation of PrixDNS's policies
+	 	 1. Violation of PrixDNS's policies
 	 	 2. Engaging in fraudulent or illegal activities
 	 	 3. Sending spam or unsolicited emails
 	 	 4. Intentionally or unintentionally disrupting PrixDNS's services or network
@@ -49,9 +48,9 @@ These **Terms of Service** govern your use of **PrixDNS**'s services and constit
 	 1. PrixDNS will not be liable for any damages, including but not limited to, direct, indirect, incidental, special, or consequential damages, arising out of the use or inability to use our services.
 	 2. PrixDNS shall not be liable for any loss or damage resulting from any breach of security or unauthorized access to or use of our servers, hardware, software, or other equipment, whether or not such breach or unauthorized access was caused by the negligence of PrixDNS.
 6.  **Privacy**
-	PrixDNS values your privacy and is committed to protecting your personal information. Our Privacy Policy sets out how we collect, use, and disclose your information in connection with our services. By using our services, you consent to our collection and processing of your information in accordance with our Privacy Policy.
-	
-	In accordance with the California Consumer Privacy Act (CCPA) and the EU General Data Protection Regulation (GDPR), PrixDNS will take appropriate measures to protect the privacy of our customers and the personal information they entrust to us. These measures include but are not limited to:
+	 PrixDNS values your privacy and is committed to protecting your personal information. Our Privacy Policy sets out how we collect, use, and disclose your information in connection with our services. By using our services, you consent to our collection and processing of your information in accordance with our Privacy Policy.
+	 
+	 In accordance with the California Consumer Privacy Act (CCPA) and the EU General Data Protection Regulation (GDPR), PrixDNS will take appropriate measures to protect the privacy of our customers and the personal information they entrust to us. These measures include but are not limited to:
 	 1. Implementing appropriate security measures to protect personal information
 	 2. Only collecting and using personal information for specific, legitimate business purposes
 	 3. Providing individuals with the right to access, correct, and delete their personal information
